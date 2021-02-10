@@ -1,2 +1,3 @@
 this is the practice run
 new line is added in testing_1.txt
+conflict folder is adding a new line.
